@@ -2,3 +2,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carol_jsjjs/)
 
+![carolhue GitHub stats](https://github-readme-stats.vercel.app/api?username=devcarolhue&show_icons=true&theme=radical)
