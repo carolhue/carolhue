@@ -12,4 +12,3 @@ Tecnológias que eu uso:
 <img align alt="css" scr= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <div style= "display: inline_block"><br/>
 <img align alt="java" scr= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<\div>
