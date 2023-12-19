@@ -9,6 +9,5 @@ Tecnológias que eu uso:
 <div style= "display: inline_block"><br/>
 <img align alt="html5" scr= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
-
 <div style= "display: inline_block"><br/>
 <img align alt="css" scr= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
