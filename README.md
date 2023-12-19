@@ -7,15 +7,6 @@
 
 Tecnológias que eu uso:
 
-![Html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
-<div style= "display: inline_block"><br/>
-<img align="center" alt="html5" scr= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  
-<div style= "display: inline_block](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)"><br/>
-<img align="center"  alt="css" scr= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  
-<div style= "display: inline_block"><br/>
-<img align="center" alt="java" scr= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-fv
+![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
